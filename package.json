@@ -1,0 +1,13 @@
+{ "version": "0.1.0"
+, "name": "jslib"
+, "author": "Laurie Harper (http://laurie.holoweb.net/)"
+, "description": "Collection of general JavaScript utility functions."
+
+, "repository": { "type": "git", "url": "git://github.com/laurie71/jslib.git" }
+
+, "main": "./index.js"
+, "directories": { "lib": "lib" }
+, "engines": { "node": "~0.4" }
+
+, "devDependencies": {}
+}
